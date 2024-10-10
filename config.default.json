@@ -4,7 +4,7 @@
 */
 {
     "ai": {
-        "default_provider": "anthropic",
+        "default_provider": "ollama",
         "providers": {
             "anthropic": {
                 "models": {
@@ -12,6 +12,14 @@
                     "tool_checker_model": "claude-3-5-sonnet-20240620",
                     "code_editor_model": "claude-3-5-sonnet-20240620",
                     "code_execution_model": "claude-3-5-sonnet-20240620"
+                }
+            },
+            "ollama": {
+                "models": {
+                    "main_model": "mistral-nemo",
+                    "tool_checker_model": "mistral-nemo",
+                    "code_editor_model": "mistral-nemo",
+                    "code_execution_model": "mistral-nemo"
                 }
             }
         }
