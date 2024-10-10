@@ -1,0 +1,19 @@
+/*
+* Marcus Copilot by FJRG2007.
+* All default settings are the most optimal for Marcus.
+*/
+{
+    "ai": {
+        "default_provider": "anthropic",
+        "providers": {
+            "anthropic": {
+                "models": {
+                    "main_model": "claude-3-5-sonnet-20240620",
+                    "tool_checker_model": "claude-3-5-sonnet-20240620",
+                    "code_editor_model": "claude-3-5-sonnet-20240620",
+                    "code_execution_model": "claude-3-5-sonnet-20240620"
+                }
+            }
+        }
+    }
+}

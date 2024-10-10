@@ -1,0 +1,16 @@
+cff-version: 1.0.0
+title: Marcus Copilot
+message: "Code Smarter, Not Harder: Your AI Assistant is Here to Help!"
+type: software
+authors:
+  - given-names: FJRG2007
+    email: fjrg2007@tpeoficial.com
+repository-code: 'https://github.com/FJRG2007/marcus-copilot'
+url: 'https://status.tpeoficial.com/development'
+abstract: >-
+  Code Smarter, Not Harder: Your AI Assistant is Here to Help!
+keywords:
+  - copilot
+  - ai
+license: AGPL-3.0-or-later
+version: Coming Soon

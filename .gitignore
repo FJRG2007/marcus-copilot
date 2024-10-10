@@ -1,0 +1,16 @@
+# Python files.
+build
+venv
+env
+__pycache__
+
+# Project development files.
+.env
+notes
+
+# Customs folder.
+temp
+
+# IDE configurations.
+.idea
+.vscode
