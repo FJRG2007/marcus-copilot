@@ -27,5 +27,5 @@ $ pip install -r requirements.txt
 
 Then, replace the `.env.example` file to `.env` and fill in the tokens you need.
 ```bash
-$ python main.py
+$ python cli.py
 ```
